@@ -4,7 +4,7 @@
   * [Simple Machine Learning tutorial](https://data-flair.training/blogs/machine-learning-tutorial/)
   * [Statistics Course in Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
   * [10 Statistical techniques data scientists need to master](https://medium.com/cracking-the-data-science-interview/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7)
-  * [10 mining techniques data scientists need in their toolbox)(https://medium.com/cracking-the-data-science-interview/the-10-mining-techniques-data-scientists-need-for-their-own-toolbox-b6bddb116768)
+  * [10 mining techniques data scientists need in their toolbox](https://medium.com/cracking-the-data-science-interview/the-10-mining-techniques-data-scientists-need-for-their-own-toolbox-b6bddb116768)
 
 ## OVERVIEW
   * simple linear regression
